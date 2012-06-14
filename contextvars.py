@@ -1,3 +1,12 @@
+__author__ = "Gawen Arab"
+__copyright__ = "Copyright 2012, Gawen Arab"
+__credits__ = ["Gawen Arab"]
+__license__ = "MIT"
+__version__ = "1.0"
+__maintainer__ = "Gawen Arab"
+__email__ = "g@wenarab.com"
+__status__ = "Production"
+
 import threading
 import collections
 
